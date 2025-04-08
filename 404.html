@@ -23,12 +23,12 @@
 	<link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/SimonAKing/images/blog/favicon.ico" type="image/x-icon" />
 	<link rel="apple-touch-icon" href="https://cdn.jsdelivr.net/gh/SimonAKing/images/PWA/apple-touch-icon.png">
 
-	<link rel="alternate" type="application/atom+xml" title="SimonAKing" href="https://tomotoes.com/blog/atom.xml">
+	<link rel="alternate" type="application/atom+xml" title="SimonAKing" href="https://simonaking.com/blog/atom.xml">
 
-	<link rel="manifest" href="https://tomotoes.com/manifest.json">
+	<link rel="manifest" href="https://simonaking.com/manifest.json">
 	<meta name="mobile-web-app-capable" content="yes">
 	<meta name="mobile-web-app-title" content="SimonAKing">
-	<meta name="msapplication-starturl" content="https://tomotoes.com">
+	<meta name="msapplication-starturl" content="https://simonaking.com">
 	<meta name="application-name" content="SimonAKing">
 	<meta name="apple-mobile-web-app-capable" content="yes">
 	<meta name="apple-mobile-web-app-title" content="SimonAKing">
@@ -43,12 +43,12 @@
 	<meta property="og:title" content="SimonAKing">
 	<meta property="og:site_name" content="SimonAKing">
 	<meta property="og:type" content="website">
-	<meta property="og:url" content="https://tomotoes.com/">
+	<meta property="og:url" content="https://simonaking.com/">
 	<meta property="og:locale" content="zh-CN">
 	<meta name="description" content=""STDIN | Think >> /dev/Mind - SimonAKing">
 	<meta name="keywords" content="SimonAKing,Blog">
 	<meta name="twitter:card" content="summary">
-	<meta name="twitter:site" content="https://tomotoes.com/">
+	<meta name="twitter:site" content="https://simonaking.com/">
 	<meta name="twitter:creator" content="SimonAKing">
 
 	<script type="application/ld+json">
@@ -69,18 +69,18 @@
 					"name": "SimonAKing",
 					"logo": {
 							"@type": "ImageObject",
-							"url": "https://tomotoes.com/images/PWA/192.png"
+							"url": "https://simonaking.com/images/PWA/192.png"
 					}
 			},
-			"url": "https://tomotoes.com/",
-			"logo": "https://tomotoes.com/images/PWA/192.png",
+			"url": "https://simonaking.com/",
+			"logo": "https://simonaking.com/images/PWA/192.png",
 			"image": {
 					"@type": "ImageObject",
-					"url": "https://tomotoes.com/images/PWA/192.png"
+					"url": "https://simonaking.com/images/PWA/192.png"
 			},
 			"mainEntityOfPage": {
 					"@type": "WebPage",
-					"@id": "https://tomotoes.com/"
+					"@id": "https://simonaking.com/"
 			},
 			"keywords": "SimonAKing,Blog",
 			"description": ""STDIN | Think >> /dev/Mind - SimonAKing"
@@ -147,7 +147,7 @@
 
 		function cutdown() {
 			if (i == 0) {
-				location.href = "//tomotoes.com";
+				location.href = "//simonaking.com";
 				clearInterval(intervalid);
 			}
 			document.getElementById("mes").innerHTML = i;
@@ -156,11 +156,12 @@
 		window.onload = cutdown;
 	</script>
 
-	<span class="face">:(</span>
-	<p>您访问的页面没有找到。<br>
-		<span id="mes"></span> 秒后转至我的个人博客，您可以在那里试着找找您所需要的信息。<br>
-		<span class="tips">如果您想了解更多信息，则可以稍后在线搜索此错误。(算了您还是别搜了……</span>
-	</p>
+<span class="face">&gt;_&lt;</span>
+<p>HTTP 404 - Page Not Found<br>
+	<code>ERR_CONNECTION_REFUSED: Cannot GET ${window.location.pathname}</code><br>
+	<span id="mes"></span> 秒后将执行 <code>window.location.href = '/'</code><br>
+	<span class="tips">// TODO: 修复这个 bug</span>
+</p>
 </body>
 
 </html>
