@@ -14,4 +14,4 @@ DO NOT FORK!
 
 如需使用本站内的关于页，请转向对应关于页项目：[React-terminal](https://github.com/SimonAKing/react-terminal)。
 
-© Since 2018 SimonAKing. All rights reserverd.
+© Since 2025 SimonAKing. All rights reserverd.
