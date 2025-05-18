@@ -10,7 +10,7 @@ DO NOT FORK!
 
 如需使用本站内的主页，请转向对应主页项目：[HomePage](https://github.com/SimonAKing/homepage)。
 
-如需使用本站内的关于页，请转向对应关于页项目：[react-terminal](https://github.com/SimonAKing/react-terminal)。
+如需使用本站内的关于页，请转向对应关于页项目：[TermFolio](https://github.com/SimonAKing/TermFolio)。
 
 如需使用本站内的相册，请转向对应相册项目：[AnimatedGallery](https://github.com/SimonAKing/AnimatedGallery)。
 
