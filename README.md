@@ -14,4 +14,6 @@ DO NOT FORK!
 
 如需使用本站内的相册，请转向对应相册项目：[AnimatedGallery](https://github.com/SimonAKing/AnimatedGallery)。
 
+如需使用本站内的微博，请转向对应微博项目：[Gwitter](https://github.com/SimonAKing/Gwitter)。
+
 © Since 2025 SimonAKing. All rights reserverd.
