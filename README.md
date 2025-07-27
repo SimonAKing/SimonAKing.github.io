@@ -16,4 +16,6 @@ DO NOT FORK!
 
 如需使用本站内的微博，请转向对应微博项目：[Gwitter](https://github.com/SimonAKing/Gwitter)。
 
+如需使用本站内的项目页，请转向对应项目页：[FolioSpace](https://github.com/SimonAKing/FolioSpace)。
+
 © Since 2025 SimonAKing. All rights reserverd.
