@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "skills": [
+    {
+      "name": "simonaking-content",
+      "type": "skill-md",
+      "description": "Access SimonAKing's writing and personal site as a knowledge source — blog posts on AI, agents, programming, product and tech, plus profile and project info.",
+      "url": "https://simonaking.com/.well-known/agent-skills/simonaking-content/SKILL.md",
+      "digest": "sha256:9c30fd0a086a30b3308ce8264d29fef8f6b02bac1261c01e9208c31a5d9b8b86"
+    }
+  ]
+}

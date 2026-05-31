@@ -3,6 +3,9 @@ Allow: /
 Disallow: /blog/js/
 Disallow: /blog/css/
 Disallow: /blog/admin/
+# Content usage preferences for AI (contentsignals.org):
+# allow AI search & real-time grounding/citation, but not model training.
+Content-Signal: search=yes, ai-input=yes, ai-train=no
 
 # AI / LLM crawlers — explicitly welcomed so this site can be read and cited by AI agents
 User-agent: GPTBot
