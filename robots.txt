@@ -1,16 +1,48 @@
 User-agent: *
 Allow: /
-Allow: /blog/categories/
-Allow: /blog/tags/
-Allow: /blog/posts/
-Allow: /blog/archives/
 Disallow: /blog/js/
 Disallow: /blog/css/
 Disallow: /blog/admin/
-Disallow: /images/
 
-Sitemap: http://simonaking.com/blog/sitemap.xml
+# AI / LLM crawlers — explicitly welcomed so this site can be read and cited by AI agents
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://simonaking.com/sitemap.xml
+Sitemap: https://simonaking.com/blog/sitemap.xml
 Sitemap: https://simonaking.com/blog/post-sitemap.xml
 Sitemap: https://simonaking.com/blog/page-sitemap.xml
-Sitemap: https://simonaking.com/blog/category-sitemap.xml
 Sitemap: https://simonaking.com/blog/tag-sitemap.xml

@@ -1,0 +1,25 @@
+# SimonAKing
+
+> STDIN | Think >> /dev/Mind
+
+SimonAKing 的个人站点。独立开发者 / 创作者，关注 AI、Agent、编程、产品与科技人文。
+This file is a machine-readable entry point for LLMs and AI search engines.
+
+- Author: SimonAKing
+- Contact: hi@simonaking.com
+- GitHub: https://github.com/SimonAKing
+- X: https://x.com/simon_aking
+
+## Surfaces
+
+- [Home](https://simonaking.com/): 个人主页 / 导航
+- [Blog](https://simonaking.com/blog/): 博客，聚焦 AI、Agent、编程、产品与科技人文
+- [About](https://simonaking.com/about/): 关于
+- [Projects](https://simonaking.com/projects/): 开源项目与作品集
+- [Gallery](https://simonaking.com/gallery/): 相册
+
+## Content index
+
+- Blog posts (full machine-readable index): https://simonaking.com/blog/llms.txt
+- RSS: https://simonaking.com/blog/atom.xml
+- Sitemap: https://simonaking.com/blog/sitemap.xml
